@@ -1,0 +1,13 @@
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\debugpractice\bin\Debug\netcoreapp3.1\debugpractice.exe
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\debugpractice\bin\Debug\netcoreapp3.1\debugpractice.deps.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\debugpractice\bin\Debug\netcoreapp3.1\debugpractice.runtimeconfig.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\debugpractice\bin\Debug\netcoreapp3.1\debugpractice.runtimeconfig.dev.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\debugpractice\bin\Debug\netcoreapp3.1\debugpractice.dll
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\debugpractice\bin\Debug\netcoreapp3.1\debugpractice.pdb
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\debugpractice\obj\Debug\netcoreapp3.1\debugpractice.csprojAssemblyReference.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\debugpractice\obj\Debug\netcoreapp3.1\debugpractice.AssemblyInfoInputs.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\debugpractice\obj\Debug\netcoreapp3.1\debugpractice.AssemblyInfo.cs
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\debugpractice\obj\Debug\netcoreapp3.1\debugpractice.csproj.CoreCompileInputs.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\debugpractice\obj\Debug\netcoreapp3.1\debugpractice.dll
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\debugpractice\obj\Debug\netcoreapp3.1\debugpractice.pdb
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\debugpractice\obj\Debug\netcoreapp3.1\debugpractice.genruntimeconfig.cache
